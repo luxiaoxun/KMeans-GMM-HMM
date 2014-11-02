@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1368171621 source:f:\projects\chmm\gmm.cpp
+	<math.h>
+	<iostream>
+	"GMM.h"
+	"KMeans.h"
+
+1368168442 f:\projects\chmm\gmm.h
+	<fstream>
+
+1368168133 f:\projects\chmm\kmeans.h
+	<fstream>
+
+1368168314 source:f:\projects\chmm\kmeans.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	"KMeans.h"
+
+1193991326 source:f:\projects\chmm\main.cpp
+	<iostream>
+
+1368358826 source:f:\projects\chmm\chmm.cpp
+	<math.h>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<strstream>
+	"CHMM.h"
+
+1368358854 f:\projects\chmm\chmm.h
+	<vector>
+	"GMM.h"
+
